@@ -3,7 +3,6 @@
 **Student Name:** Mithil Lanjewar  
 **Roll No / PRN:** `25070521105`  
 **Submission ID:** `25070521105-CA-03`  
-**Repository:** `https://github.com/somesh-chutel/25070521105-CA-03.git`  
 **Faculty / Instructor:** Prof. Somesh Chutel  
 **Department & Section:** Computer Science & Information Technology &bull; SIT Section B  
 **Tech Stack:** MongoDB Compass (`chess_arena`), Express.js 5, React 19, Node.js v22, React Router v7, Web Worker AI, Bootstrap  
