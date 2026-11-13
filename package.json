@@ -1,0 +1,11 @@
+{
+  "name": "sitsecb-ca-03",
+  "version": "1.0.0",
+  "description": "SIT Sec B - CA-03 Student Management Portal (MERN Stack)",
+  "scripts": {
+    "start": "node server/server.js",
+    "server": "node server/server.js",
+    "client": "npm --prefix client run dev",
+    "build": "npm --prefix client run build"
+  }
+}
